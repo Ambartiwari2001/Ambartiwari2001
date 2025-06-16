@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwNTQyMzQsIm5iZiI6MTc1MDA1MzkzNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE2VDA2MDUzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyYjk0NjEwZTgyZGI3YzRmZjZjZGI0OWMzNzE3MTNhZjE1ZjY5ODNkYzM1YWE5MTU4NDY4YjhjYTFmMDNkYmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QvrtyQcEsh8wz7s0WZK3lre6KWFoMlpACi0AVfEEUjE" alt="Banner" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ambar Tiwari</h1>
@@ -10,7 +10,11 @@
 
 ## 💼 Experience     
 
-<div style="float: left; width: 68%;">
+<!-- Flex Container -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<!-- Left: Content -->
+<div style="flex: 1; min-width: 250px;">
   
 <h3>🧑‍💻 Young Decade IT Solutions | PHP & MERN Developer</h3>
 <p><strong>📍 Indore, India | 🗓️ Apr 2025 – Present</strong></p>
@@ -20,27 +24,25 @@
   <li>Projects: AirCity (Host/Admin Panel), Hello App, TaskMonster.</li>
 </ul>
 
-<div style="display:flex; justify-content: right;  align-items: center;">
- <div> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"
-    alt="coding" /></div>
 </div>
 
-<div style="clear: both;"></div>
-<h3>🧪 Signimus Technologies | Java Developer Intern</h3>
-<p><strong>📍 Remote | 🗓️ Jan 2024 – Mar 2024</strong></p>
-<ul>
-  <li>Hands-on with Spring Boot APIs and Java-based modules.</li>
-  <li>Collaborated in agile team sprints, debugging and building modules.</li>
-</ul>
-
-<h3>🛫 Idyllic Futuristic Technologies | Flight Simulator Engineer</h3>
-<p><strong>📍 Indore, India | 🗓️ 2023 – 2024</strong></p>
-<ul>
-  <li>Built training simulation software for aviation.</li>
-</ul>
+<!-- Right: Image -->
+<div style="flex: 0 0 220px; text-align: right;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="coding" width="200" />
+</div>
 
 </div>
 
+---
+
+## 🧪 Signimus Technologies | Java Developer Intern
+**📍 Remote | 🗓️ Jan 2024 – Mar 2024**
+- Hands-on with Spring Boot APIs and Java-based modules.
+- Collaborated in agile team sprints, debugging and building modules.
+
+## 🛫 Idyllic Futuristic Technologies | Flight Simulator Engineer
+**📍 Indore, India | 🗓️ 2023 – 2024**
+- Built training simulation software for aviation.
 
 ---
 
@@ -81,8 +83,3 @@
 - 💡 I love solving real-world problems through code.
 - 🎯 Focused on learning scalable backend architecture.
 - 🧠 Currently learning: GraphQL, Next.js
-
----
-
-
-

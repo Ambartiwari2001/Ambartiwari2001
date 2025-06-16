@@ -53,11 +53,10 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&locale=en&theme=react" alt="Ambartiwari2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&locale=en&theme=react" alt="Ambartiwari2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambartiwari2001&theme=react" alt="Ambartiwari2001" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambartiwari2001&theme=react" alt="Ambartiwari2001" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambartiwari2001&layout=compact&theme=react&langs_count=10&hide=css,scss,shell,dockerfile" alt="top-languages" /></p>
 
 
 ---

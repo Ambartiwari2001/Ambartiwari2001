@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ambartiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="Ambartiwari2001" /> </p>
 
-
-
-<p align="left">
-  <a href="https://twitter.com/ambartiwari" target="blank"><img src="https://img.shields.io/twitter/follow/ambartiwari?logo=twitter&style=for-the-badge" alt="ambartiwari" /></a>
-</p>
-
 - 🔭 I’m currently working at **Young Decade IT Solutions**
 
 - 🌱 I’m currently learning **GraphQL & Next.js**

@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ambar Tiwari</h1>
 <h3 align="left">🚀 A passionate PHP & MERN Stack Developer from Indore, India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
 - 🔭 I’m currently working at **Young Decade IT Solutions**
 
@@ -58,6 +58,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambartiwari2001&theme=react" alt="Ambartiwari2001" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambartiwari2001&layout=compact&theme=react&langs_count=8&hide=css,scss" alt="top-languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambartiwari2001&layout=compact&theme=react&langs_count=10&hide=css,scss,shell,dockerfile" alt="top-languages" /></p>
+
 
 ---

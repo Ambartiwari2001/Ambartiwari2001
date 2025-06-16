@@ -10,17 +10,22 @@
 
 ## 💼 Experience     
 
-<div style="display: inline-block; width: 68%; vertical-align: top;">
+<div style="overflow: hidden;">
+  <div style="float: left; width: 68%;">
+  
+<h3>🧑‍💻 Young Decade IT Solutions | PHP & MERN Developer</h3>
+<p><strong>📍 Indore, India | 🗓️ Apr 2025 – Present</strong></p>
+<ul>
+  <li>Developed scalable APIs using PHP (Laravel) and Node.js.</li>
+  <li>Worked on dynamic admin panels, booking systems, and dashboards.</li>
+  <li>Projects: AirCity (Host/Admin Panel), Hello App, TaskMonster.</li>
+</ul>
 
-### 🧑‍💻 Young Decade IT Solutions | PHP & MERN Developer  
-**📍 Indore, India | 🗓️ Apr 2025 – Present**  
-- Developed scalable APIs using PHP (Laravel) and Node.js.  
-- Worked on dynamic admin panels, booking systems, and dashboards.  
-- Projects: AirCity (Host/Admin Panel), Hello App, TaskMonster.
-
-</div>
-<div style="display: inline-block; width: 30%; text-align: right;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" alt="coding" />
+  </div>
+  
+  <div style="float: right; width: 30%;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" alt="coding" />
+  </div>
 </div>
 ### 🧪 Signimus Technologies | Java Developer Intern
 **📍 Remote | 🗓️ Jan 2024 – Mar 2024**

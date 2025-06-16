@@ -17,9 +17,9 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/ambartiwari" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/></a>
-  <a href="https://linkedin.com/in/ambar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="https://instagram.com/ambartiwari" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
-  <a href="https://www.youtube.com/@ambartiwari" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/></a>
+  <a href="https://linkedin.com/in/ambar" target="blank"><img src="https://linkedin.com/in/ambar-tiwari-098b34227?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+  <a href="https://instagram.com/ambartiwari" target="blank"><img src="https://www.instagram.com/pandit_ambartiwari?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
+  <a href="https://www.youtube.com/@ambartiwari" target="blank"><img src="https://x.com/ambartiwari2001?t=moFUAXDFMmXaVPnI7P5yig&s=09?style=for-the-badge&logo=youtube&logoColor=white" height="30"/></a>
 </p>
 
 ---

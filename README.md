@@ -8,7 +8,11 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience     
+
+<table>
+  <tr>
+    <td width="65%">
 
 ### 🧑‍💻 Young Decade IT Solutions | PHP & MERN Developer
 **📍 Indore, India | 🗓️ Apr 2025 – Present**
@@ -26,6 +30,12 @@
 - Built training simulation software for aviation.
 
 ---
+  </td>
+  <td width="35%" align="center">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="coding" />
+  </td>
+  </tr>
+</table>
 
 ## 🧠 Skills & Tools
 

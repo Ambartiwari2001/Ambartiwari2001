@@ -20,6 +20,11 @@
   <li>Projects: AirCity (Host/Admin Panel), Hello App, TaskMonster.</li>
 </ul>
 
+<div style="float: right;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" alt="coding" />
+</div>
+
+<div style="clear: both;"></div>
 <h3>🧪 Signimus Technologies | Java Developer Intern</h3>
 <p><strong>📍 Remote | 🗓️ Jan 2024 – Mar 2024</strong></p>
 <ul>
@@ -35,11 +40,6 @@
 
 </div>
 
-<div style="float: right; width: 30%;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" alt="coding" />
-</div>
-
-<div style="clear: both;"></div>
 
 ---
 
@@ -83,7 +83,5 @@
 
 ---
 
-## 📌 Note
 
-> This profile README is automatically shown on your GitHub profile. Customize and commit changes to show updated info to your visitors.
 

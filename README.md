@@ -3,7 +3,6 @@
 <h3 align="center">🚀 A passionate PHP & MERN Stack Developer from Indore, India</h3>
 <img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwNjc5MTYsIm5iZiI6MTc1MDA2NzYxNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE2VDA5NTMzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlN2QwNmU3NzU4NWFhNWMyYTM4MmJkZTI0ZGI0NmVhMWVhYzIyMDc1MWM4NDUzM2ViZTA1OTRmMTQ1NmE1OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bXPeYhfOAXmmqTL8YoK-HEW9T-kEh0ypUx20yMQJ14o">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ambartiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="Ambartiwari2001" /> </p>
 
 - 🔭 I’m currently working at **Young Decade IT Solutions**
 

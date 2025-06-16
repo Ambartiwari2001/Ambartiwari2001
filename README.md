@@ -1,85 +1,48 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%" />
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<h1 align="center">Hi 👋, I'm Ambar Tiwari</h1>
+<h3 align="center">🚀 A passionate PHP & MERN Stack Developer from Indore, India</h3>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ambartiwari2001&label=Profile%20views&color=0e75b6&style=flat" alt="Ambartiwari2001" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=Ambartiwari2001" alt="Ambartiwari2001" /></a> </p>
+
+<p align="left">
+  <a href="https://twitter.com/ambartiwari" target="blank"><img src="https://img.shields.io/twitter/follow/ambartiwari?logo=twitter&style=for-the-badge" alt="ambartiwari" /></a>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Ambar Tiwari</h1>
-<h3 align="center">🚀 PHP & MERN Stack Developer | Passionate Coder from Indore, India</h3>
+- 🔭 I’m currently working at **Young Decade IT Solutions**
 
----
+- 🌱 I’m currently learning **GraphQL & Next.js**
 
-## 💼 Experience     
+- 💬 Ask me about **PHP, Laravel, React, Node.js, API Development**
 
-<!-- Flex Container -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+- 📫 How to reach me **ambartiwari2001@gmail.com**
 
-<!-- Left: Content -->
-<div style="flex: 1; min-width: 250px;">
-  
-<h3>🧑‍💻 Young Decade IT Solutions | PHP & MERN Developer</h3>
-<p><strong>📍 Indore, India | 🗓️ Apr 2025 – Present</strong></p>
-<ul>
-  <li>Developed scalable APIs using PHP (Laravel) and Node.js.</li>
-  <li>Worked on dynamic admin panels, booking systems, and dashboards.</li>
-  <li>Projects: AirCity (Host/Admin Panel), Hello App, TaskMonster.</li>
-</ul>
+- ⚡ Fun fact **I love solving real-world problems through code.**
 
-</div>
-
-<!-- Right: Image -->
-<div style="flex: 0 0 220px; text-align: right;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="coding" width="200" />
-</div>
-
-</div>
-
----
-
-## 🧪 Signimus Technologies | Java Developer Intern
-**📍 Remote | 🗓️ Jan 2024 – Mar 2024**
-- Hands-on with Spring Boot APIs and Java-based modules.
-- Collaborated in agile team sprints, debugging and building modules.
-
-## 🛫 Idyllic Futuristic Technologies | Flight Simulator Engineer
-**📍 Indore, India | 🗓️ 2023 – 2024**
-- Built training simulation software for aviation.
-
----
-
-## 🧠 Skills & Tools
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambartiwari2001&theme=tokyonight" alt="streak" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/ambartiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambartiwari" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ambar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar" height="30" width="40" /></a>
+  <a href="https://instagram.com/ambartiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambartiwari" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@ambartiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ambartiwari" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman" height="40"/></a>
+</p>
 
-## 📫 Let's Connect
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambartiwari2001&show_icons=true&locale=en&layout=compact" alt="Ambartiwari2001" /></p>
 
-- 💼 [LinkedIn](https://linkedin.com/in/ambar)
-- 📧 Email: ambartiwari2001@gmail.com
-- 🌐 Portfolio: [ambartiwari.dev](https://yourwebsite.com) *(Add if available)*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&locale=en" alt="Ambartiwari2001" /></p>
 
----
-
-## ✨ Fun Facts
-
-- 💡 I love solving real-world problems through code.
-- 🎯 Focused on learning scalable backend architecture.
-- 🧠 Currently learning: GraphQL, Next.js
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambartiwari2001&" alt="Ambartiwari2001" /></p>

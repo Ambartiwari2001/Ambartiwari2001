@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ambar Tiwari</h1>
 <h3 align="left">🚀 A passionate PHP & MERN Stack Developer from Indore, India</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />
 
 - 🔭 I’m currently working at **Young Decade IT Solutions**
 

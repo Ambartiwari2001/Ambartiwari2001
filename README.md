@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GraphQL & Next.js**
 
-- 💬 Ask me about **PHP, Laravel, React, Node.js, API Development, MySQL**
+- 💬 Ask me about ** Java, Python, PHP, Laravel, React, Node.js, API Development, MySQL**
 
 - 📫 How to reach me: **ambartiwari2001@gmail.com**
 

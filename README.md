@@ -2,15 +2,15 @@
 <h3 align="left">🚀 A passionate PHP & MERN Stack Developer from Indore, India</h3>
 <img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAxMzQzMDgsIm5iZiI6MTc1MDEzNDAwOCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE3VDA0MjAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0OWNhODY2NDkwNWYwYzQ1MWYzYTg5ODQ5ZDFiZjAwOWJiNzdkYjdjYmJmMWY4M2EwZjg5ZTJiMmQzZTkwMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R5ygJiM6z4kvE1kDxNhDwhHjP-kWVr9iYjwT-zsrqqo" />
 
-- 🔭 I’m currently working at **Young Decade IT Solutions**
+- 🔭 I’m currently working at Young Decade IT Solutions
 
-- 🌱 I’m currently learning **GraphQL & Next.js**
+- 🌱 I’m currently learning GraphQL & Next.js
 
-- 💬 Ask me about ** Java, Python, PHP, Laravel, React, Node.js, API Development, MySQL**
+- 💬 Ask me about Java, Python, PHP, Laravel, React, Node.js, API Development, MySQL
 
-- 📫 How to reach me: **ambartiwari2001@gmail.com**
+- 📫 How to reach me: ambartiwari2001@gmail.com
 
-- ⚡ Fun fact: **I love solving real-world problems through clean and efficient code.**
+- ⚡ Fun fact: I love solving real-world problems through clean and efficient code.
 
 ---
 

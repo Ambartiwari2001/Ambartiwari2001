@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love solving real-world problems through clean and efficient code.
 
 ---
-
+<img align="center" alt="Coding"  width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/ambartiwari2001?t=5mavUt17G6XEqyI2jPwftQ&s=09" target="_blank">
@@ -35,7 +35,7 @@
 </p>
 
 ---
-
+<img align="center" alt="Coding"  width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40"/>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40"/>
 </p>
-
+<img align="center" alt="Coding"  width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
@@ -70,6 +70,6 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=Ambartiwari2001&theme=tokyonight" /></p>
 
-
+<img align="center" alt="Coding"  width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 
 ---

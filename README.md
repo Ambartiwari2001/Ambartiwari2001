@@ -67,9 +67,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&locale=en&theme=react" alt="Ambartiwari2001" /></p>
 
-
-<p><img align="center" src="https://streak-stats.demolab.com?user=Ambartiwari2001&theme=tokyonight" /></p>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
 ---

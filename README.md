@@ -70,6 +70,6 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=Ambartiwari2001&theme=tokyonight" /></p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Ambartiwari2001" alt="Ambartiwari2001" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
 ---

@@ -67,6 +67,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&locale=en&theme=react" alt="Ambartiwari2001" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
 ---

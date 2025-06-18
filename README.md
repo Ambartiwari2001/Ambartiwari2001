@@ -70,5 +70,6 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=Ambartiwari2001&theme=tokyonight" /></p>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=Ambartiwari2001" alt="Ambartiwari2001" />
 
 ---

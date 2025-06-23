@@ -65,16 +65,15 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<div align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ambartiwari2001&show_icons=true&theme=react&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambartiwari2001&layout=compact&theme=react" width="48%" />
+</p>
 
-  <!-- Streak Stats Mirror -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ambartiwari2001&theme=react" alt="GitHub Streak" width="48%" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambartiwari2001&layout=compact&theme=react&langs_count=10" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ambartiwari2001&theme=gruvbox&row=1&column=7" width="100%" />
+</p>
 
 
 ---

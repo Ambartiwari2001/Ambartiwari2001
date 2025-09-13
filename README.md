@@ -1,7 +1,7 @@
 <img align="center" alt="Coding"  width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 <h1 align="left">Hi 👋, I'm Ambar Tiwari</h1>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" />
-<h3 align="left">🚀 A PHP Developer from Ahmedabad, India</h3>
+<h3 align="left">🚀 A Software Developer from Ahmedabad, India</h3>
 
 - 🔭 I’m currently working at AmCodr IT Solutions.
 

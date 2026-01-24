@@ -64,7 +64,7 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ambartiwari2001&theme=dark&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambartiwari2001&theme=github-dark" width="100%" />
 </p>
 
 
